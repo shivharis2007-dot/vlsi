@@ -1,2 +1,3 @@
-# Arduino_project_1-
-i  am using the esp32 
+#vlsi
+in this repository i would be able to upload work in digital electronics using verilog
+the tool i used over here model sim started edition 
